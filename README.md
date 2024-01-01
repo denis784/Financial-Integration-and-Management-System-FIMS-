@@ -42,3 +42,17 @@ cd Financial-Integration-and-Management-System-FIMS
 
 # Install dependencies
 # Add any specific commands or steps needed for your project
+
+## Usage
+Explain how to use your system. Include any guidelines, tips, or examples that can help users understand its functionalities.
+
+## Contributing
+We welcome contributions! Follow our Contribution Guidelines for details on how to contribute to FIMS.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any inquiries, please contact [denis muthuyia] at [muthuiyadenis@gmail.com].
+
+Thank you for checking out Financial Integration and Management System (FIMS)!
